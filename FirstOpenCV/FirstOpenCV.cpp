@@ -1,4 +1,5 @@
 #include <iostream>
+#include <opencv2/opencv.h>
 
 // Function to calculate the factorial of a number using recursion
 unsigned long long factorial(int n) {
@@ -19,7 +20,8 @@ int main() {
     }
 
     unsigned long long result = factorial(num);
-    // std::cout << "Factorial of " << num << " i " << "s: " << result << std::endl;
+    std::cout << "Factorial of " << num << " i
+    s: " << result << std::endl;
 
     return 0;
 }

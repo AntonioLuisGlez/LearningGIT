@@ -1,0 +1,3 @@
+/home/algonzalez/Desktop/LearningGIT/Testing/build/CMakeFiles/rebuild_cache.dir
+/home/algonzalez/Desktop/LearningGIT/Testing/build/CMakeFiles/edit_cache.dir
+/home/algonzalez/Desktop/LearningGIT/Testing/build/CMakeFiles/Testing.dir
